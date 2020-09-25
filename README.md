@@ -1,11 +1,11 @@
 
 ## Hello, all! :wave:
 
- My name is Russell Abernethy :man: (He / Him / His) and I'm from Pennsylvania.
+ My name is Russell Abernethy :man_shrugging: (he / him / his) and I'm from Pennsylvania :us:
  
- I am a sophmore at Temple University :owl: where I am pursuing a BS in **Computer Science** :computer: with minor in **Mathematics** :bar_chart:
+ I am a sophmore at Temple University :owl: where I am pursuing a BS in **Computer Science**  :computer:  with a minor in **Mathematics** :bar_chart:
  
- My goal after graduation is to pursue a career as a Data Scientist or Machine Learning Engineer.
+ My goal after graduation is to pursue a career as a Data Scientist :man_scientist: or Machine Learning Engineer :man_technologist:.
  
 ## Languages and Tools :floppy_disk:
 <!-- languages: -->
