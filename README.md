@@ -24,10 +24,10 @@
 
 ## My Projects :open_file_folder:
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/rabernethy/2048-Game">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rabernethy&repo=2048-Game&theme=vue-dark" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/rabernethy/SalesmanGame">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rabernethy&repo=SalesmanGame&theme=vue-dark" />
 </a>
 
