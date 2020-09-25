@@ -32,5 +32,5 @@
 </a>
 
 ## My GitHub Stats :chart_with_upwards_trend:
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=rabernethy&theme=vue-dark&hide=contribs" /> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=rabernethy&theme=vue-dark&hide=contribs&show_icons=true" /> 
 
