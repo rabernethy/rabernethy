@@ -13,6 +13,7 @@
 ![C++](https://img.shields.io/badge/Language-C++-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
 ![Python](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![Java](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![Markdown](https://img.shields.io/badge/Language-Markdown-informational?style=flat&logo=markdown&logoColor=white&color=2bbc8a)
 
 <!-- tools -->
 ![macOS](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
@@ -22,7 +23,7 @@
 ![GitHub](https://img.shields.io/badge/Repository-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
 
 
-## My Projects :open_file_folder:
+## My Current Projects :open_file_folder:
 
 <a href="https://github.com/rabernethy/2048-Game">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rabernethy&repo=2048-Game&theme=vue-dark" />
