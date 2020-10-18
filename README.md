@@ -30,8 +30,8 @@
 <a href="https://github.com/rabernethy/2048-Game">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rabernethy&repo=2048-Game&theme=vue-dark" />
 </a>
-<a href="https://github.com/rabernethy/SalesmanGame">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rabernethy&repo=SalesmanGame&theme=vue-dark" />
+<a href=">https://github.com/12thStreetStudios/TravelingSalesmanGame">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=12thStreetStudios&repo=TravelingSalesmanGame&theme=vue-dark" />
 </a>
 <a href="https://github.com/12thStreetStudios/OwlHacks2020">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=12thStreetStudios&repo=OwlHacks2020&theme=vue-dark" />
