@@ -13,6 +13,8 @@
 ![C++](https://img.shields.io/badge/Language-C++-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
 ![Python](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![Java](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![JavaScript](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![Reactjs](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![Markdown](https://img.shields.io/badge/Language-Markdown-informational?style=flat&logo=markdown&logoColor=white&color=2bbc8a)
 
 <!-- tools -->
