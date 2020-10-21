@@ -26,16 +26,22 @@
 
 
 ## My Current Projects :open_file_folder:
-
-<a href="https://github.com/rabernethy/2048-Game">
+<div>
+ <a href="https://github.com/rabernethy/2048-Game">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rabernethy&repo=2048-Game&theme=vue-dark" />
-</a>
-<a href=">https://github.com/12thStreetStudios/TravelingSalesmanGame">
+ </a>
+ <a href=">https://github.com/12thStreetStudios/TravelingSalesmanGame">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=12thStreetStudios&repo=TravelingSalesmanGame&theme=vue-dark" />
-</a>
-<a href="https://github.com/12thStreetStudios/OwlHacks2020">
+ </a>
+</div>
+<div>
+ <a href="https://github.com/12thStreetStudios/OwlHacks2020">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=12thStreetStudios&repo=OwlHacks2020&theme=vue-dark" />
-</a>
+ </a>
+ <a href="https://github.com/12thStreetStudios/HalloweenCandyRank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=12thStreetStudios&repo=HalloweenCandyRank&theme=vue-dark" />
+ </a>
+</div>
 
 ## My GitHub Stats :chart_with_upwards_trend:
 <a href="https://github.com/anuraghazra/github-readme-stats">
