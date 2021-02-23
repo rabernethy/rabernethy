@@ -1,7 +1,7 @@
 
 ## Hello, all! :wave:
 
- My name is Russell Abernethy :man_shrugging: (he / him / his) and I'm from Pennsylvania :us:
+ My name is Russell Abernethy :man_shrugging: (he / him) and I'm from Pennsylvania :us:
  
  I am a sophmore at Temple University :owl: where I am pursuing a BS in **Computer Science**  :computer:  with a minor in **Mathematics** :bar_chart:
  
