@@ -5,7 +5,6 @@
  
  I am a junior at Temple University :owl: where I am pursuing a BS in **Computer Science**  :computer:
  
- My goal after graduation is to pursue a career as a Data Scientist :man_scientist: or Machine Learning Engineer :man_technologist:.
  
 ## Languages and Tools :floppy_disk:
 <!-- languages: -->
