@@ -3,7 +3,7 @@
 
  My name is Russell Abernethy :man_shrugging: (he / him) and I'm from Pennsylvania :us:
  
- I am a junior at Temple University :owl: where I am pursuing a BS in **Computer Science**  :computer:
+ I am a junior at Temple University :owl: where I am pursuing a BS in **Computer Science**  :computer: and a Computer Security & Digital Forensics Certificate 
  
  
 ## Languages and Tools :floppy_disk:
