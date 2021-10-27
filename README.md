@@ -20,7 +20,7 @@
 ![macOS](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
 ![Ubuntu](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=2bbc8a)
 ![Visual Studio Code](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
-![Bash](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![Fish](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![GitHub](https://img.shields.io/badge/Repository-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
 
 
