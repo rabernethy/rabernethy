@@ -30,7 +30,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rabernethy&repo=2048-Game&theme=vue-dark" />
  </a>
  <a href="https://github.com/rabernethy/slfLCT">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rabernethy&repo=slfLCT&theme=vue-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rabernethy&repo=LDCT&theme=vue-dark" />
  </a>
 </div>
 <div>
